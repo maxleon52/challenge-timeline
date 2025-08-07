@@ -24,8 +24,8 @@ Honestly, I didn't understand how you wanted the timeline layout to be. When I t
 
 But the description in your readme confused me, so to better understand the challenge rules, I asked GPT for help to analyze and interpret the description, and the layout it suggested was something like this:
 
-![Reference 1](public/timeline1.png)
-![Reference 2](public/timeline2.png)
+![Reference 1](public/version-1.png)
+![Reference 2](public/version-2.png)
 
 It didn't seem right to me, but honestly, I was confused about what I should create. According to GPT's interpretation, it would be something similar to Google Calendar, but much simpler, where the size of the event would be based on the date.
 
